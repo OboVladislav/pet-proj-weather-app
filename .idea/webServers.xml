@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3ec8c695-5286-4569-add7-31c83544e40c" name="Weather_ks">
+        <fileTransfer rootFolder="/home/v/vladobf9/vladobf9.beget.tech/public_html" accessType="SFTP" host="vladobf9.beget.tech" port="22" sshConfigId="54b8b49f-419d-4459-9e0e-d7cf4e3a7fec" sshConfig="vladobf9_1@vladobf9.beget.tech:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
