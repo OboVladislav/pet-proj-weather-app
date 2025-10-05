@@ -18,6 +18,8 @@ class WeatherBackend {
     // Время жизни кэша по умолчанию (3600 секунд = 1 час)
     private $defaultCacheTtl = 3600;
 
+    ///
+
     /**
      * Конструктор класса
      */
