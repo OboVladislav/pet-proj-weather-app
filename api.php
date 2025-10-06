@@ -4,7 +4,7 @@ require_once __DIR__ . '/vendor/autoload.php';
 use back\WeatherBackend;
 
 $weatherBackend = new WeatherBackend();
-
+///
 // Проверка наличия параметра действия
 if (!isset($_GET['action'])) {
     sendResponse(['error' => ['code' => 400, 'message' => 'Параметр action не указан']]);
